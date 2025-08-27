@@ -1,1 +1,1 @@
-Desafio PArtidas Rankeadas
+Desafio Partidas Rankeadas
